@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
+   /* здесь коментарий*/
+h5 {
+    color: chartreuse;
+
+}
+.class{
+    text-align: center;
+    color: black;
+}
+#id{
+    color: brown;
+}
+*{
+    color: aqua;
+}
+p {
+    font-size: 30px;
+    font-family: 'Kolker Brush', cursive;
+    color: black;
+border: 2px solid red;
+}
+.ramka {
+    border-radius: 20px;
+    border-color:black ;
+    border-style: double;
+    border-width: 7px;
+    color: black;
+    font-family: 'Kolker Brush', cursive;
+}
